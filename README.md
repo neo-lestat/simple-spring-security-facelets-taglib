@@ -14,17 +14,17 @@ Tested with:
 
 Install
 
- 1.- Download the project
- 2.- run mvn install
-  Or download jar 
+ 1.- Download the project and run mvn install
+ 
+ 2.- Or download jar and run:
 ```cmd
-   run mvn install:install-file -Dfile=simple-spring-security-facelets-taglib-0.1.jar \
+   mvn install:install-file -Dfile=simple-spring-security-facelets-taglib-0.1.jar \
      -DgroupId=org.nl \
      -DartifactId=simple-spring-security-facelets-taglib \
      -Dversion=0.1 \
      -Dpackaging=jar
 ```
- 4.- add to your pom 
+ 3.- add to your pom 
 ```xml
     <dependency>
         <groupId>org.nl</groupId>
