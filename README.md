@@ -6,9 +6,11 @@ so if you have a Role - Privilege schema you will be able to check the Privilege
 
 Tested with:
 
- - org.glassfish.web:el-impl:2.2
  - javax.servlet:javax.servlet-api:3.1.0
+ - org.glassfish.web:el-impl:2.2
  - javax.servlet:jstl:1.2
+ - com.sun.faces:jsf-api:2.2.14
+ - com.sun.faces:jsf-impl:2.2.14
  - spring-security-taglibs:4.2.3.RELEASE
  - spring version 4.2.3.RELEASE
 
