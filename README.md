@@ -12,7 +12,7 @@ Tested with:
  - com.sun.faces:jsf-api:2.2.14
  - com.sun.faces:jsf-impl:2.2.14
  - spring-security-taglibs:4.2.3.RELEASE
- - spring version 4.2.3.RELEASE
+ - spring version 4.3.9.RELEASE
 
 Install
 
